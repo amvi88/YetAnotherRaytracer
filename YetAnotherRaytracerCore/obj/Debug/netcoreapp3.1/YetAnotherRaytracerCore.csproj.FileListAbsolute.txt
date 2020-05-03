@@ -1,0 +1,9 @@
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\bin\Debug\netcoreapp3.1\YetAnotherRaytracerCore.deps.json
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\bin\Debug\netcoreapp3.1\YetAnotherRaytracerCore.dll
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\bin\Debug\netcoreapp3.1\YetAnotherRaytracerCore.pdb
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\obj\Debug\netcoreapp3.1\YetAnotherRaytracerCore.AssemblyInfoInputs.cache
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\obj\Debug\netcoreapp3.1\YetAnotherRaytracerCore.AssemblyInfo.cs
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\obj\Debug\netcoreapp3.1\YetAnotherRaytracerCore.dll
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\obj\Debug\netcoreapp3.1\YetAnotherRaytracerCore.pdb
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\obj\Debug\netcoreapp3.1\YetAnotherRaytracerCore.csprojAssemblyReference.cache
+C:\Users\Extreme PC\source\repos\YetAnotherRaytracer\YetAnotherRaytracerCore\obj\Debug\netcoreapp3.1\YetAnotherRaytracerCore.csproj.CoreCompileInputs.cache
