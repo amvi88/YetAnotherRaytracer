@@ -21,7 +21,9 @@ namespace YetAnotherRaytracerCore
         {
         }
 
-        public double Length => Math.Sqrt(this.X * this.X + this.Y * this.Y + this.Z * this.Z);
+        public double Length => Math.Sqrt(LengthSquared);
+
+        public double LengthSquared => this.X * this.X + this.Y * this.Y + this.Z * this.Z;
 
         public static Vector3 operator -(Vector3 v) => new Vector3(-v.X, -v.Y, -v.Z);
 
@@ -44,6 +46,8 @@ namespace YetAnotherRaytracerCore
         public static Vector3 CrossProduct(Vector3 v, Vector3 u) => new Vector3(u.Y * v.Z - u.Z * v.Y, u.Z * v.X - u.X * v.Z, u.X * v.Y - u.Y * v.X);
 
         public static Vector3 UnitVector(Vector3 v) => v / v.Length;
+
+        public Vector3 UnitVector() => this / this.Length;
 
         public override string ToString() => $"X:{this.X}, Y:{this.Y}, Z:{this.Z}";
     }
